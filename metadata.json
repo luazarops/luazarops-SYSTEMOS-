@@ -1,0 +1,5 @@
+{
+  "name": "Copy of SystemOS Web",
+  "description": "A web-based port of the 'Sistema Organizado' CLI, featuring a live clock, Tic-Tac-Toe, Notes, Calculator, and a local AI assistant.",
+  "requestFramePermissions": []
+}
